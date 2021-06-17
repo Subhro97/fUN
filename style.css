@@ -26,4 +26,13 @@ body {
   width: 50%;
   height: 50vh;
   border: 1px solid gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.add {
+  width: 7rem;
+  height: 2.5rem;
+  font-size: medium;
 }
